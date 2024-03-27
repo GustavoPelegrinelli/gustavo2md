@@ -1,0 +1,30 @@
+@charset "YTF-8";
+
+body
+{
+background-color : blue;
+color: red;
+font-size: 13pt;
+font-family: arial;
+}
+
+h1
+{
+font-family: fum;
+color: green;
+font-size: 30pt;
+}
+
+h2
+{
+font-family: fum;
+color: green;
+font-size: 20pt;
+}
+
+a
+{
+font-size: 15pt;
+font-family: arial;
+color: black
+}
